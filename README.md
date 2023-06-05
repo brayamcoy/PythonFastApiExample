@@ -3,4 +3,4 @@ Start commands
 
 uvicorn app: app
 
-Before you have to activate your virtual enviroment.
+Before you have to activate your virtual environment.
